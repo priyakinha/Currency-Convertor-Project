@@ -27,4 +27,4 @@ The Currency Converter Project is a web application that allows users to convert
    git clone https://github.com/priyakinha/Currency-Convertor-Project.git
 2. Navigate to the project directory:
    cd Currency-Convertor-Project
-3.Open currencyConvertor.html in your web browser.
+3. Open currencyConvertor.html in your web browser.
