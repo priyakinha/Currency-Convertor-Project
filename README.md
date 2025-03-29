@@ -18,6 +18,13 @@ The Currency Converter Project is a web application that allows users to convert
 
 # Getting Started
 
-# Prerequisites
+## Prerequisites
 - A modern web browser
 - Internet connection to fetch currency data
+  
+  ## Installation
+1. Clone the repository:
+   git clone https://github.com/priyakinha/Currency-Convertor-Project.git
+2. Navigate to the project directory:
+   cd Currency-Convertor-Project
+3.Open currencyConvertor.html in your web browser.
